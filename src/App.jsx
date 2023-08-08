@@ -9,9 +9,6 @@ function App() {
     
     <ItemListContainer greeting="Bienvenido!" />
   
-  
-  
-  
   </div>
 
   )
