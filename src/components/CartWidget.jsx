@@ -1,7 +1,7 @@
 // import ReactDOM from 'react-dom'
 // import { render } from "react-dom";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCartShopping, faLeftLong } from '@fortawesome/free-solid-svg-icons'
+import { faCartShopping } from '@fortawesome/free-solid-svg-icons'
 
 
 const CartWidget = () => {
